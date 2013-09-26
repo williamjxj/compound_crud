@@ -13,17 +13,17 @@ The Database name/Collection name: tests/Test
 ## DB Structure (Test Collection):
 
 name: String
-info {
- first_name: String
- last_name: String
- phone: String
- e_mail: String
-}
-count {
- contacts: Number
- prospects: Number
- closings: Number
- listings: Number
-}
-createdAt: Date
-active: Boolean
+  info {
+   first_name: String
+   last_name: String
+   phone: String
+   e_mail: String
+  }
+  count {
+   contacts: Number
+   prospects: Number
+   closings: Number
+   listings: Number
+  }
+  createdAt: Date
+  active: Boolean
