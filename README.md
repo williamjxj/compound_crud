@@ -12,6 +12,7 @@ The Database name/Collection name: tests/Test
 
 ## DB Structure (Test Collection):
 
+<pre>
 name: String
   info {
    first_name: String
@@ -27,3 +28,4 @@ name: String
   }
   createdAt: Date
   active: Boolean
+</pre>
