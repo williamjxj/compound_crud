@@ -1,6 +1,6 @@
 ## CompoundJS + JugglingDB + MongoDB version
 
- See the demo from <a href="http://dixitruth.com/php_rest/">http://dixitruth.com/php_rest/</a>
+ See the demo from <a href="http://dixitruth.com:3000/rests/">http://dixitruth.com:3000/rests/</a>
 
 $ cd __HERE__
 
