@@ -1,5 +1,7 @@
 ## CompoundJS + JugglingDB + MongoDB version
 
+ See the demo from <a href="http://dixitruth.com/php_rest/">http://dixitruth.com/php_rest/</a>
+
 $ cd __HERE__
 
 $ npm install -l
